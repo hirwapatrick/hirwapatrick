@@ -12,7 +12,7 @@ I enjoy exploring **React.js, Node.js, MongoDB**, and integrating AI features in
 
 - 🌱 I’m currently learning **Advanced AI & ML integrations**  
 - 💬 Ask me about **Web Development, AI, and Game Development**  
-- 📫 How to reach me: **hirwap96@gmail.com**  
+- 📫 How to reach me: **pazzohirwa06@gmail.com**  
 
 ---
 
