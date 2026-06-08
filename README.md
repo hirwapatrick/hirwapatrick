@@ -84,13 +84,13 @@ A modern portfolio showcasing my projects, skills, and development journey with 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hirwapatrick\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hirwapatrick&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwapatrick\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwapatrick&layout=compact&theme=github_dark&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hirwapatrick\&theme=tokyonight)
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hirwapatrick&theme=github_dark)
 
 ---
 
