@@ -1,68 +1,118 @@
 # Hi there, I'm Hirwa Patrick 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirwa-patrick-95567531b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hirwapatrick)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hirwapatrick9/)
+### 🚀 Full Stack Developer | AI Enthusiast | Software Engineering Student
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hirwa-patrick-95567531b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hirwapatrick)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/hirwapatrick9/)
 
 ---
 
 ## 👨‍💻 About Me
-I am a passionate **Full Stack Developer** and **AI enthusiast** from Rwanda. I love building modern, scalable, and user-friendly web applications.  
-I enjoy exploring **React.js, Node.js, MongoDB**, and integrating AI features into projects.  
 
-- 🌱 I’m currently learning **Advanced AI & ML integrations**  
-- 💬 Ask me about **Web Development, AI, and Game Development**  
-- 📫 How to reach me: **pazzohirwa06@gmail.com**  
+I'm **Hirwa Patrick**, a passionate software developer from **Rwanda** who enjoys building modern web applications and exploring artificial intelligence technologies.
+
+As a high school student preparing for the next stage of my technology journey, I spend my time developing real-world projects, learning new technologies, and improving my problem-solving skills through coding.
+
+### 🌟 What I'm Doing
+
+* 🎓 Completing my final year of high school
+* 🌱 Learning advanced Full Stack Development and AI integrations
+* 💡 Building web applications that solve real-world problems
+* 🚀 Exploring modern technologies and software architecture
+
+### 💬 Ask Me About
+
+* Frontend Development (React, Next.js, Vue)
+* Backend Development (Node.js, Express)
+* Database Design (MongoDB, MySQL)
+* REST APIs & Authentication
+* AI-Powered Applications
+
+### 📫 Reach Me
+
+* Email: **[hirwap96@gmail.com](mailto:hirwap96@gmail.com)**
+* LinkedIn: **linkedin.com/in/hirwa-patrick-95567531b**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Frontend
-- React.js, Vue.js, Next.js  
-- HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
-- Styled-components, Framer Motion, Responsive Design  
+### Frontend Development
 
-### Backend
-- Node.js, Express.js, PHP  
-- MongoDB, MySQL  
-- REST APIs, Authentication, JWT  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square\&logo=vuedotjs\&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
 
-### AI / ML
-- OpenAI API, NLP (natural, compromise)  
-- AI Chatbots, Text Generation & Summarization  
-- Movie Recommendation Systems  
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
 ### Tools & Platforms
-- Git & GitHub, Vercel, Cloudinary, NPM, Yarn  
-- Postman, VS Code, Docker basics  
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 1. **Social Media Blocker Extension**
-Browser extension to block distracting social media sites and improve productivity.  
-[View Project](https://github.com/hirwapatrick/SM)
+### 🔒 Social Media Blocker Extension
 
+A browser extension designed to improve productivity by blocking distracting social media platforms and helping users stay focused.
 
+**Tech Stack:** JavaScript, Browser APIs
 
----
+🔗 Repository: https://github.com/hirwapatrick/SM
 
-## 📈 GitHub Stats
-![Hirwa Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirwapatrick&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwapatrick&layout=compact&theme=radical)
+### 🌐 Personal Portfolio Website
 
----
+A modern portfolio showcasing my projects, skills, and development journey with responsive design and smooth animations.
 
-## 💬 Contact Me
-- Email: **hirwap96@gmail.com.com**  
-- LinkedIn: [linkedin.com/in/hirwa-patrick-95567531b/](https://www.linkedin.com/in/hirwa-patrick-95567531b/)  
-- IG: [@hirwapatrick9](https://www.instagram.com/hirwapatrick9/)  
+**Tech Stack:** React, Tailwind CSS, Framer Motion
 
 ---
 
-## ⚡ Fun Fact
-I love **coding, AI, and gaming**. I also enjoy building mini-games and exploring ways to integrate AI in them.  
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hirwapatrick\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwapatrick\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hirwapatrick\&theme=tokyonight)
 
 ---
+
+## 🎯 2026 Goals
+
+* Build and deploy more production-ready applications
+* Contribute to open-source projects
+* Deepen my knowledge of AI and Machine Learning
+* Learn cloud technologies and DevOps practices
+* Start my Software Engineering degree
+
+---
+
+## ⚡ Fun Facts
+
+* 🎮 I enjoy gaming and creating mini-game projects
+* 🤖 I'm fascinated by Artificial Intelligence
+* 🌍 I love building solutions that can help people
+* 📚 I'm constantly learning new technologies
+
+---
+
+### ⭐ "Code, Learn, Build, Repeat."
+
+Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
