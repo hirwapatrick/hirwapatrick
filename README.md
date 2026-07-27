@@ -16,7 +16,6 @@ As a high school student preparing for the next stage of my technology journey, 
 
 ### 🌟 What I'm Doing
 
-* 🎓 Completing my final year of high school
 * 🌱 Learning advanced Full Stack Development and AI integrations
 * 💡 Building web applications that solve real-world problems
 * 🚀 Exploring modern technologies and software architecture
