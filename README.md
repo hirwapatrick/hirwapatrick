@@ -1,6 +1,6 @@
 # Hi there, I'm Hirwa Patrick 👋
 
-### 🚀 Full Stack Developer | AI Enthusiast | Software Engineering Student
+### 🚀 Full Stack Developer | AI Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hirwa-patrick-95567531b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hirwapatrick)
