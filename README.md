@@ -132,7 +132,7 @@ I'm always interested in connecting with **developers, entrepreneurs, technology
 
 📧 **Email:** [hirwap96@gmail.com](mailto:hirwap96@gmail.com)
 
-💼 **LinkedIn:** [linkedin.com/in/hirwa-patrick-95567531b](https://www.linkedin.com/in/hirwapatrick/)
+💼 **LinkedIn:** [linkedin.com/in/hirwapatrick](https://www.linkedin.com/in/hirwapatrick/)
 
 📸 **Instagram:** [@hirwapatrick9](https://www.instagram.com/hirwapatrick9/)
 
