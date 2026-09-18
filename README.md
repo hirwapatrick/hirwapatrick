@@ -101,7 +101,7 @@ A modern and responsive portfolio website designed to showcase my projects, tech
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/hirwapatrick/hirwapatrick/output/github-contribution-grid-snake-dark.svg)
 
----](https://raw.githubusercontent.com/hirwapatrick/hirwapatrick/output/github-contribution-grid-snake-dark.svg)
+---
 
 
 ---
