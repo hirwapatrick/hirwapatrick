@@ -72,33 +72,37 @@ I believe in learning by building — taking an idea, turning it into a working 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔒 Social Media Blocker
-
-A browser extension designed to improve digital productivity by blocking distracting social media platforms and helping users maintain focus.
-
-**Technologies:** JavaScript · Browser APIs
-
-🔗 **Repository:** [github.com/hirwapatrick/SM](https://github.com/hirwapatrick/SM)
-
----
-
 ### 🌐 Personal Portfolio
 
-A modern and responsive portfolio website designed to showcase my projects, technical skills, and development journey.
+A modern and responsive portfolio website designed to showcase my projects, technical skills, experience, and development journey.
 
 **Technologies:** React · Tailwind CSS · Framer Motion
 
+🔗 **Live Website:** [hirwapatrick.vercel.app](https://hirwapatrick.vercel.app/)
+
 ---
+
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hirwapatrick\&show_icons=true\&theme=github_dark\&cache_seconds=1800)
+### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwapatrick\&layout=compact\&theme=github_dark\&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hirwapatrick\&show_icons=true\&theme=github_dark\&hide_border=true)
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hirwapatrick\&theme=github_dark)
+### 💻 Top Languages
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hirwapatrick\&layout=compact\&theme=github_dark\&hide_border=true)
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hirwapatrick\&theme=github-dark\&hide_border=true)
+
+### 🐍 Contribution Graph
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/hirwapatrick/hirwapatrick/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 
 ---
 
