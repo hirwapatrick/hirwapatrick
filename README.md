@@ -85,7 +85,7 @@ A modern and responsive portfolio website designed to showcase my projects, tech
 
 ## 📊 GitHub Activity
 
-### 📈 GitHub Stats
+[### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hirwapatrick\&show_icons=true\&theme=github_dark\&hide_border=true)
 
@@ -101,7 +101,7 @@ A modern and responsive portfolio website designed to showcase my projects, tech
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/hirwapatrick/hirwapatrick/output/github-contribution-grid-snake-dark.svg)
 
----
+---](https://raw.githubusercontent.com/hirwapatrick/hirwapatrick/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
