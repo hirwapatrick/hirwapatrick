@@ -4,7 +4,7 @@
 
 I'm a passionate software developer from **Rwanda** focused on building modern, scalable, and user-friendly digital solutions. I enjoy turning ideas into functional products while continuously exploring **Artificial Intelligence, software architecture, and emerging technologies**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hirwa-patrick-95567531b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hirwapatrick/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hirwapatrick)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/hirwapatrick9/)
 
@@ -132,7 +132,7 @@ I'm always interested in connecting with **developers, entrepreneurs, technology
 
 📧 **Email:** [hirwap96@gmail.com](mailto:hirwap96@gmail.com)
 
-💼 **LinkedIn:** [linkedin.com/in/hirwa-patrick-95567531b](https://www.linkedin.com/in/hirwa-patrick-95567531b)
+💼 **LinkedIn:** [linkedin.com/in/hirwa-patrick-95567531b](https://www.linkedin.com/in/hirwapatrick/)
 
 📸 **Instagram:** [@hirwapatrick9](https://www.instagram.com/hirwapatrick9/)
 
